@@ -7,8 +7,10 @@
       <excludeFolder url="file://$MODULE_DIR$/src/AbstractFactoryDP" />
       <excludeFolder url="file://$MODULE_DIR$/src/BuilderDP" />
       <excludeFolder url="file://$MODULE_DIR$/src/FactoryDP" />
+      <excludeFolder url="file://$MODULE_DIR$/src/ObserverDP" />
       <excludeFolder url="file://$MODULE_DIR$/src/PrototypeDP" />
       <excludeFolder url="file://$MODULE_DIR$/src/SingletonDP" />
+      <excludeFolder url="file://$MODULE_DIR$/src/StateDP" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
